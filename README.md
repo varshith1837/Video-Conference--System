@@ -138,7 +138,3 @@ Key parameters can be adjusted in both `server.py` and `client.py`:
 This project is licensed under the MIT License.
 
 ---
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to open an issue or submit a pull request.
