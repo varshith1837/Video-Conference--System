@@ -1,0 +1,6 @@
+opencv-python
+pyaudio
+Pillow
+customtkinter
+numpy
+mss
