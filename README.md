@@ -9,7 +9,7 @@ A full-featured, real-time video conferencing application built from scratch usi
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | Description |
 |---|---|
@@ -26,7 +26,7 @@ A full-featured, real-time video conferencing application built from scratch usi
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌─────────────────────────────────────────────────────┐
@@ -51,7 +51,7 @@ A full-featured, real-time video conferencing application built from scratch usi
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language:** Python 3.8+
 - **Networking:** TCP/UDP Sockets, JSON message framing
@@ -64,7 +64,7 @@ A full-featured, real-time video conferencing application built from scratch usi
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -100,7 +100,7 @@ A full-featured, real-time video conferencing application built from scratch usi
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 ├── server.py           # Multithreaded server (TCP control, UDP video/audio, screen relay, file server)
@@ -119,7 +119,7 @@ A full-featured, real-time video conferencing application built from scratch usi
 
 ---
 
-## 🔧 Configuration
+## Configuration
 
 Key parameters can be adjusted in both `server.py` and `client.py`:
 
@@ -133,7 +133,7 @@ Key parameters can be adjusted in both `server.py` and `client.py`:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 
